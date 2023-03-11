@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "282098526264",
+    "firebase_url": "https://reltime-86463-default-rtdb.firebaseio.com",
+    "project_id": "reltime-86463",
+    "storage_bucket": "reltime-86463.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:282098526264:android:736efc4368d7ac22935ecd",
+        "android_client_info": {
+          "package_name": "com.example.cloud3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "282098526264-sbr93iv4udb1a2v8a6ceaqg8dqgjqabv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhF22XP53acpUTmGIllvRrZVy1Gkec9oI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "282098526264-sbr93iv4udb1a2v8a6ceaqg8dqgjqabv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
